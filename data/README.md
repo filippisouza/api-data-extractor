@@ -1,0 +1,1 @@
+This folder is intended to store extracted data
